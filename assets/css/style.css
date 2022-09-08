@@ -140,3 +140,17 @@ h1,h2 {
     padding-top:30px;
     margin:0 auto;
 }
+
+hr {
+    border-top: 2px solid #3a3a3a;
+    width: 100%;
+    margin: 5px;
+}
+
+.left-about-heading {
+    width:60%;
+    float:right;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+}
