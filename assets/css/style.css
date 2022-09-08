@@ -188,3 +188,9 @@ hr {
     height:100%;
     border-radius:50%;
 }
+
+/* times*/
+
+#times {
+    background-image: url('../images/dublin-city.png') no-repeat center center;
+}
