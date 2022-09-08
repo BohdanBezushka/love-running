@@ -167,3 +167,24 @@ hr {
     text-align: right;
 }
 
+#welcome {
+    text-align: center;
+    font-size: 200%;
+    margin: 25px 0;
+}
+
+#center-about {
+    width:300px;
+    height:300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+#circle-container{
+    background: url(/assets/images/ethos-center-image.jpg) no-repeat center center;
+    height:100%;
+    border-radius:50%;
+}
